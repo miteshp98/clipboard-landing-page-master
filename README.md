@@ -2,6 +2,9 @@
 
 This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile (1)](https://github.com/miteshp98/clipboard-landing-page-master/assets/145320555/3fd487b6-1262-4af8-8afc-d833c18feea0)
+
+
 ## Table of contents
 
 - [Overview](#overview)
